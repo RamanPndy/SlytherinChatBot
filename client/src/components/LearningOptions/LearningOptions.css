@@ -1,0 +1,18 @@
+.learning-options-container {
+  /* display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap; */
+}
+
+.learning-option-button {
+  padding: 0.5rem;
+  border-radius: 25px !important;
+  background: transparent;
+  border: 1px solid #355d7c;
+  margin: 5px !important;
+}
+
+
+.react-chatbot-kit-chat-bot-message{
+  background-color: #3790b9 !important;
+}
